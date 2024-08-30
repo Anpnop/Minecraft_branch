@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "74209ddd5c3235718076917e927d2fa9"
+	name: "Axhoo#74209ddd"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

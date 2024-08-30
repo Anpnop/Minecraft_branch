@@ -1,0 +1,569 @@
+{
+  "survive:recipes/main/cyan_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/purple_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/green_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/lime_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/gray_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/soap_mix": {
+    "criteria": {
+      "has_ingredients": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/brown_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/ice_cube": {
+    "criteria": {
+      "has_ice": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_jacket": {
+    "criteria": {
+      "has_wool": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/pink_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_hat": {
+    "criteria": {
+      "has_wool": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/white_washcloth": {
+    "criteria": {
+      "has_string": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/potash_solution": {
+    "criteria": {
+      "has_wood_ash": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/yellow_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-08-30 05:47:13 +0000",
+      "inv_changed-diamond": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/canteen": {
+    "criteria": {
+      "has_leather": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/light_gray_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/soap_bottle": {
+    "criteria": {
+      "has_ingredients": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wood_ash": {
+    "criteria": {
+      "has_charcoal": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/red_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/ice": {
+    "criteria": {
+      "has_cubes": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/blue_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/orange_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_boots": {
+    "criteria": {
+      "has_wool": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/decorations/deorum_lantern": {
+    "criteria": {
+      "has_torch": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/magenta_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/black_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_pants": {
+    "criteria": {
+      "has_wool": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/light_blue_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-08-30 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2024-08-30 05:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2024-08-30 06:01:31 +0000",
+      "minecraft:deep_cold_ocean": "2024-08-30 05:47:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-08-30 05:52:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-08-30 05:52:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/grongle_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsproot_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/smogstem_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/transportation/highsproot_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/blightwillow_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/wigglewood_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/jellyshroom_boat": {
+    "criteria": {
+      "in_water": "2024-08-30 05:54:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-08-30 05:54:35 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2024-08-30 06:02:47 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
